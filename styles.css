@@ -1,0 +1,20 @@
+:root {
+    /*Colors */
+     /* colors for the headers */
+     --teal: #38B2AC;
+     --purple: #5A67D8;
+}
+
+h1 {
+    color: var(--teal);
+    font-size: 24px;
+}
+
+h2{
+    color: var(--purple);
+    font-size: 21px;
+}
+
+p{
+    font-size: 18px;
+}
